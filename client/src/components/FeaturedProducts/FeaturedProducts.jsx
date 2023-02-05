@@ -6,7 +6,7 @@ const FeaturedProducts = ({ type }) => {
     {
       id: 1,
       img: "https://images.pexels.com/photos/806627/pexels-photo-806627.jpeg?auto=compress&cs=tinysrgb&w=600",
-      img2: "https://images.pexels.com/photos/806627/pexels-photo-806627.jpeg?auto=compress&cs=tinysrgb&w=600",
+      img2: "https://images.pexels.com/photos/12969246/pexels-photo-12969246.jpeg?auto=compress&cs=tinysrgb&w=600",
       title: "Long Sleeve Graphic T-Shirt",
       isNew: true,
       oldPrice: 19,
@@ -15,7 +15,7 @@ const FeaturedProducts = ({ type }) => {
     {
       id: 1,
       img: "https://images.pexels.com/photos/3651597/pexels-photo-3651597.jpeg?auto=compress&cs=tinysrgb&w=600",
-      img2: "https://images.pexels.com/photos/3651597/pexels-photo-3651597.jpeg?auto=compress&cs=tinysrgb&w=600",
+      img2: "https://images.pexels.com/photos/3206114/pexels-photo-3206114.jpeg?auto=compress&cs=tinysrgb&w=600",
       title: "Coat",
       isNew: true,
       oldPrice: 19,
@@ -33,7 +33,7 @@ const FeaturedProducts = ({ type }) => {
     {
       id: 1,
       img: "https://images.pexels.com/photos/1917611/pexels-photo-1917611.jpeg?auto=compress&cs=tinysrgb&w=600",
-      img2: "https://images.pexels.com/photos/1917611/pexels-photo-1917611.jpeg?auto=compress&cs=tinysrgb&w=600",
+      img2: "https://images.pexels.com/photos/14700244/pexels-photo-14700244.jpeg?auto=compress&cs=tinysrgb&w=600",
       title: "Long Sleeve Graphic T-Shirt",
       isNew: true,
       oldPrice: 19,
